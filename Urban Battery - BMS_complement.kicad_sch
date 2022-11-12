@@ -3343,13 +3343,13 @@
   (symbol (lib_id "Switch:SW_SPST") (at 23.495 139.065 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5dea82e6-e5a0-4de1-8cf9-6e3092f66205)
-    (property "Reference" "SW?" (id 0) (at 24.765 137.7949 90)
+    (property "Reference" "SW1" (id 0) (at 24.765 137.7949 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "SW_SPST" (id 1) (at 24.765 140.3349 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 23.495 139.065 0)
+    (property "Footprint" "Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx31-2LFS" (id 2) (at 23.495 139.065 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 23.495 139.065 0)
@@ -3680,7 +3680,7 @@
   (symbol (lib_id "Connector:Conn_01x02_Female") (at 260.35 151.13 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ab956923-6b68-4281-8489-3a05b7f8dae5)
-    (property "Reference" "J?" (id 0) (at 261.62 151.1299 0)
+    (property "Reference" "J14" (id 0) (at 261.62 151.1299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "E-Stop" (id 1) (at 261.62 153.6699 0)
@@ -4278,7 +4278,7 @@
       (reference "J13") (unit 1) (value "CAN Connector") (footprint "BMS_Custom_Footprints:molex-sl-1x03-horizontal")
     )
     (path "/ab956923-6b68-4281-8489-3a05b7f8dae5"
-      (reference "J?") (unit 1) (value "E-Stop") (footprint "Connector_Molex:Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal")
+      (reference "J14") (unit 1) (value "E-Stop") (footprint "Connector_Molex:Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal")
     )
     (path "/ea90f9ac-3a1c-4bd6-87e3-9c84b8c1984a"
       (reference "K1") (unit 1) (value "Contactor_Relay") (footprint "Relay_THT:Relay_1P1T_NO_10x24x18.8mm_Panasonic_ADW11xxxxW_THT")
@@ -4298,6 +4298,9 @@
     (path "/6217ae67-6f0a-4eec-9ea6-cca6ff4bd2b2"
       (reference "R3") (unit 1) (value "120") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
+    (path "/5dea82e6-e5a0-4de1-8cf9-6e3092f66205"
+      (reference "SW1") (unit 1) (value "SW_SPST") (footprint "Button_Switch_THT:SW_Tactile_SPST_Angled_PTS645Vx31-2LFS")
+    )
     (path "/3e1e1fe7-4a2f-4d8a-9ee6-adb86443cfc4"
       (reference "SW2") (unit 1) (value "SW_DPDT_x2") (footprint "BMS_Custom_Footprints:Toggle_Switch_M2022S2A2W30")
     )
@@ -4306,9 +4309,6 @@
     )
     (path "/09100164-fa51-4ba0-b366-4a26390c779d"
       (reference "SW3") (unit 1) (value "CAN_TERM") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical")
-    )
-    (path "/5dea82e6-e5a0-4de1-8cf9-6e3092f66205"
-      (reference "SW?") (unit 1) (value "SW_SPST") (footprint "")
     )
     (path "/38a517b7-e3ff-44bb-944f-e8a6ce592fe9"
       (reference "U1") (unit 1) (value "MCP2515-xSO") (footprint "Package_SO:SOIC-18W_7.5x11.6mm_P1.27mm")
