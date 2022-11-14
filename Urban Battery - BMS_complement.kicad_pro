@@ -425,7 +425,6 @@
           "+5V",
           "Buck_VIN",
           "GND",
-          "Net-(J7-Pad1)",
           "Net-(J7-Pad2)",
           "bms2",
           "bms3",
