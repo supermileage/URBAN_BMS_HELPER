@@ -2308,7 +2308,7 @@
 
   (footprint "LOGO" (layer "F.Cu")
     (tedit 0) (tstamp dd31b15f-9439-482f-9b11-dfc4733b36a1)
-    (at 193.04 58.42)
+    (at 158.75 69.85)
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 0) (layer "F.Fab")
       (effects (font (size 1.524 1.524) (thickness 0.3)))
@@ -4237,7 +4237,7 @@
   (gr_line (start 82.55 134.62) (end 222.25 134.62) (layer "Edge.Cuts") (width 0.1) (tstamp 7c3d33bf-297b-4bd7-a48f-c577d4c270ab))
   (gr_arc (start 82.55 134.62) (mid 78.059872 132.760128) (end 76.2 128.27) (layer "Edge.Cuts") (width 0.1) (tstamp bb121f7e-39fa-45f1-886b-439a278ea864))
   (gr_line (start 228.6 128.27) (end 228.6 57.15) (layer "Edge.Cuts") (width 0.1) (tstamp c85d586a-dbb7-413c-802e-3b2d462b304e))
-  (gr_text "Sarah Qadar\nJeffrey Du" (at 211.455 54.61) (layer "F.SilkS") (tstamp a1081f53-deb4-49fa-a71c-12f3d8041bac)
+  (gr_text "Sarah Qadar\nJeffrey Du" (at 195.58 58.42) (layer "F.SilkS") (tstamp a1081f53-deb4-49fa-a71c-12f3d8041bac)
     (effects (font (size 1.2 1.2) (thickness 0.15)))
   )
   (dimension (type aligned) (layer "Edge.Cuts") (tstamp 41bc8cd5-dc13-4c69-ad6c-38a37bfa6ce4)
