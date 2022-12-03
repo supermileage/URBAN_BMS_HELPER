@@ -2893,7 +2893,7 @@
     (uuid 0d75acdd-fc61-4dd3-aa6f-0ba17fb6e6e0)
     (property "Reference" "C4" (id 0) (at 67.31 207.645 90))
     (property "Value" "10uF" (id 1) (at 67.31 209.55 90))
-    (property "Footprint" "" (id 2) (at 67.31 204.47 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (id 2) (at 67.31 204.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 67.31 204.47 0)
@@ -3848,7 +3848,7 @@
     (uuid cd4715e8-d7f5-41c0-9b30-f49dea5c4913)
     (property "Reference" "L1" (id 0) (at 166.37 133.35 90))
     (property "Value" "680uH" (id 1) (at 166.37 135.255 90))
-    (property "Footprint" "" (id 2) (at 166.37 132.08 0)
+    (property "Footprint" "BMS_Custom_Footprints:PE-52629NL" (id 2) (at 166.37 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.digikey.ca/en/products/detail/pulse-electronics/PE-52629NL/2266103" (id 3) (at 166.37 132.08 0)
@@ -4218,7 +4218,7 @@
       (reference "C3") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/0d75acdd-fc61-4dd3-aa6f-0ba17fb6e6e0"
-      (reference "C4") (unit 1) (value "10uF") (footprint "")
+      (reference "C4") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/f5f66dd7-0461-4541-a6d8-01ab10745a00"
       (reference "C5") (unit 1) (value "100uF") (footprint "Capacitor_THT:CP_Radial_D12.5mm_P5.00mm")
@@ -4287,7 +4287,7 @@
       (reference "K2") (unit 1) (value "Contactor_Relay") (footprint "Relay_THT:Relay_SPST_StandexMeder_SIL_Form1A")
     )
     (path "/cd4715e8-d7f5-41c0-9b30-f49dea5c4913"
-      (reference "L1") (unit 1) (value "680uH") (footprint "")
+      (reference "L1") (unit 1) (value "680uH") (footprint "BMS_Custom_Footprints:PE-52629NL")
     )
     (path "/90d01c83-4c57-4d7d-8af1-6e1d22289f0b"
       (reference "R1") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")

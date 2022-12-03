@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 20527180779926244
+=======
+20525438788982426
+>>>>>>> 159873eb0784385262791c94b8a7089a6707042e
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -21,7 +25,11 @@ Through hole pin header THT 1x04 2.54mm single row
 4
 4
 BMS_Custom_Footprints
+<<<<<<< HEAD
 PE-552647NL
+=======
+PE-52629NL
+>>>>>>> 159873eb0784385262791c94b8a7089a6707042e
 
 
 0
@@ -56580,6 +56588,7 @@ L_Toroid Vertical series Radial pin pitch 12.20mm  length 25.4mm width 14.7mm Vi
 0
 2
 2
+<<<<<<< HEAD
 Inductor_THT
 L_Toroid_Vertical_L25.4mm_W14.7mm_P12.20mm_Vishay_TJ5_BigPads
 L_Toroid, Vertical series, Radial, pin pitch=12.20mm, , length*width=25.4*14.7mm^2, Vishay, TJ5, BigPads, http://www.vishay.com/docs/34079/tj.pdf
@@ -56588,6 +56597,16 @@ L_Toroid Vertical series Radial pin pitch 12.20mm  length 25.4mm width 14.7mm Vi
 2
 2
 Inductor_THT
+=======
+Inductor_THT
+L_Toroid_Vertical_L25.4mm_W14.7mm_P12.20mm_Vishay_TJ5_BigPads
+L_Toroid, Vertical series, Radial, pin pitch=12.20mm, , length*width=25.4*14.7mm^2, Vishay, TJ5, BigPads, http://www.vishay.com/docs/34079/tj.pdf
+L_Toroid Vertical series Radial pin pitch 12.20mm  length 25.4mm width 14.7mm Vishay TJ5 BigPads
+0
+2
+2
+Inductor_THT
+>>>>>>> 159873eb0784385262791c94b8a7089a6707042e
 L_Toroid_Vertical_L26.7mm_W14.0mm_P10.16mm_Pulse_D
 L_Toroid, Vertical series, Radial, pin pitch=10.16mm, , length*width=26.67*13.97mm^2, Pulse, D, http://datasheet.octopart.com/PE-92112KNL-Pulse-datasheet-17853305.pdf
 L_Toroid Vertical series Radial pin pitch 10.16mm  length 26.67mm width 13.97mm Pulse D
@@ -83503,6 +83522,7 @@ THT terminal block RND 205-00308 pitch 10mm size 115x8.1mm^2 drill 1.3mm pad 2.5
 12
 12
 TerminalBlock_TE-Connectivity
+<<<<<<< HEAD
 TE_1986660-2
 
 
@@ -83510,6 +83530,8 @@ TE_1986660-2
 4
 4
 TerminalBlock_TE-Connectivity
+=======
+>>>>>>> 159873eb0784385262791c94b8a7089a6707042e
 TerminalBlock_TE_1-282834-0_1x10_P2.54mm_Horizontal
 Terminal Block TE 1-282834-0, 10 pins, pitch 2.54mm, size 25.86x6.5mm^2, drill diamater 1.1mm, pad diameter 2.1mm, see http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F282834%7FC1%7Fpdf%7FEnglish%7FENG_CD_282834_C1.pdf, script-generated using https://github.com/pointhi/kicad-footprint-generator/scripts/TerminalBlock_TE-Connectivity
 THT Terminal Block TE 1-282834-0 pitch 2.54mm size 25.86x6.5mm^2 drill 1.1mm pad 2.1mm
