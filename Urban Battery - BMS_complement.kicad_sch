@@ -3509,10 +3509,10 @@
     (property "Value" "Charge Connector" (id 1) (at 257.81 60.9599 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal" (id 2) (at 256.54 58.42 0)
+    (property "Footprint" "Connector_Molex:Molex_Mini-Fit_Jr_5569-02A2_2x01_P4.20mm_Horizontal" (id 2) (at 256.54 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://www.molex.com/pdm_docs/sd/436500200_sd.pdf" (id 3) (at 256.54 58.42 0)
+    (property "Datasheet" "https://www.molex.com/pdm_docs/ps/PS-5556-001.pdf" (id 3) (at 256.54 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 9d1508df-81aa-40b9-829f-20ad0d106a25))
@@ -4371,7 +4371,7 @@
       (reference "J4") (unit 1) (value "CAN") (footprint "BMS_Custom_Footprints:molex-sl-1x03-horizontal")
     )
     (path "/7c8b5bee-9709-44ed-b549-ea2a8e264dfd"
-      (reference "J5") (unit 1) (value "Charge Connector") (footprint "Connector_Molex:Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal")
+      (reference "J5") (unit 1) (value "Charge Connector") (footprint "Connector_Molex:Molex_Mini-Fit_Jr_5569-02A2_2x01_P4.20mm_Horizontal")
     )
     (path "/3f5a7f38-1f93-4176-9e51-e94247502669"
       (reference "J6") (unit 1) (value "Battery Connector") (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal")
