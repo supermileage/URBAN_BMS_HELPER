@@ -8000,7 +8000,7 @@
 		)
 		(uuid "bbe5d073-c22f-4509-8721-8646f9ade813")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 247.8374 194.2306 0)
+			(at 247.2654 194.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11285,7 +11285,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
+		(property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal"
 			(at 261.62 191.77 0)
 			(effects
 				(font
@@ -11294,7 +11294,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.ca/en/products/detail/phoenix-contact/1729128/260615?utm_adgroup=Connectors%2C%20Interconnects&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Supplier_Phoenix%20Contact_0277_Co-op&utm_term=&productid=260615&gclid=CjwKCAiAhqCdBhB0EiwAH8M_GunPOPKCx2ICSjHcvsaLY6vUI2QZJvTEruKzXstBsW3mdooGzr9-MRoCGRIQAvD_BwE"
+		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/436/43650/436500200_sd.pdf?inline"
 			(at 261.62 191.77 0)
 			(effects
 				(font
@@ -13293,7 +13293,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
+		(property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal"
 			(at 261.62 198.12 0)
 			(effects
 				(font
@@ -13302,7 +13302,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.ca/en/products/detail/phoenix-contact/1729128/260615?utm_adgroup=Connectors%2C%20Interconnects&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Supplier_Phoenix%20Contact_0277_Co-op&utm_term=&productid=260615&gclid=CjwKCAiAhqCdBhB0EiwAH8M_GunPOPKCx2ICSjHcvsaLY6vUI2QZJvTEruKzXstBsW3mdooGzr9-MRoCGRIQAvD_BwE"
+		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/436/43650/436500200_sd.pdf?inline"
 			(at 261.62 198.12 0)
 			(effects
 				(font
