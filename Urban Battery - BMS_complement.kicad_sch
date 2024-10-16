@@ -10112,7 +10112,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
+		(property "Footprint" "Connector_Molex:Molex_Mega-Fit_76825-0002_2x01_P5.70mm_Horizontal"
 			(at 256.54 224.79 0)
 			(effects
 				(font
@@ -10121,7 +10121,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/Multi-Postion%20PCTerminal%20Blocks.pdf"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/1100/Mega-Fit_Power_Conn.pdf"
 			(at 256.54 224.79 0)
 			(effects
 				(font
@@ -12687,7 +12687,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
+		(property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal"
 			(at 261.62 185.42 0)
 			(effects
 				(font
@@ -12696,7 +12696,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.ca/en/products/detail/phoenix-contact/1729128/260615?utm_adgroup=Connectors%2C%20Interconnects&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Supplier_Phoenix%20Contact_0277_Co-op&utm_term=&productid=260615&gclid=CjwKCAiAhqCdBhB0EiwAH8M_GunPOPKCx2ICSjHcvsaLY6vUI2QZJvTEruKzXstBsW3mdooGzr9-MRoCGRIQAvD_BwE"
+		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/436/43650/436500200_sd.pdf?inline"
 			(at 261.62 185.42 0)
 			(effects
 				(font
