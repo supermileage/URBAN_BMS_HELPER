@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "killswitch_test_pin_headers")(type "KiCad")(uri "${KIPRJMOD}/test_pin_headers/M20_9990246/killswitch_test_pin_headers.kicad_sym")(options "")(descr ""))
+  (lib (name "BMS_out_10_pin")(type "KiCad")(uri "${KIPRJMOD}/test_pin_headers/BMS_out_10_pin_61301011121/BMS_out_10_pin.kicad_sym")(options "")(descr ""))
+  (lib (name "Arduino_3_pin_61300311121")(type "KiCad")(uri "${KIPRJMOD}/test_pin_headers/3_pin_61300311121/Arduino_3_pin_61300311121.kicad_sym")(options "")(descr ""))
+)
