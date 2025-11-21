@@ -13706,7 +13706,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal"
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
 			(at 269.24 236.22 0)
 			(effects
 				(font
@@ -13715,7 +13715,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/436/43650/436500200_sd.pdf?inline"
+		(property "Datasheet" "https://www.phoenixcontact.com/product/pdf/api/v1/MTcyOTEyOA?_realm=us&_locale=en-US&blocks=commercial-data%2Ctechnical-data%2Cdrawings%2Capprovals%2Cclassifications%2Cenvironmental-compliance-data%2Call-accessories"
 			(at 269.24 236.22 0)
 			(effects
 				(font
@@ -15471,7 +15471,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal"
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
 			(at 269.24 229.87 0)
 			(effects
 				(font
@@ -15480,7 +15480,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/436/43650/436500200_sd.pdf?inline"
+		(property "Datasheet" "https://www.phoenixcontact.com/product/pdf/api/v1/MTcyOTEyOA?_realm=us&_locale=en-US&blocks=commercial-data%2Ctechnical-data%2Cdrawings%2Capprovals%2Cclassifications%2Cenvironmental-compliance-data%2Call-accessories"
 			(at 269.24 229.87 0)
 			(effects
 				(font
@@ -16144,7 +16144,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal"
+		(property "Footprint" "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
 			(at 269.24 242.57 0)
 			(effects
 				(font
@@ -16153,7 +16153,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/436/43650/436500200_sd.pdf?inline"
+		(property "Datasheet" "https://www.phoenixcontact.com/product/pdf/api/v1/MTcyOTEyOA?_realm=us&_locale=en-US&blocks=commercial-data%2Ctechnical-data%2Cdrawings%2Capprovals%2Cclassifications%2Cenvironmental-compliance-data%2Call-accessories"
 			(at 269.24 242.57 0)
 			(effects
 				(font
