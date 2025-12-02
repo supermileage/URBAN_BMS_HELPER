@@ -625,6 +625,10 @@
       {
         "netclass": "Power",
         "pattern": "bms5"
+      },
+      {
+        "netclass": "4A",
+        "pattern": "GND"
       }
     ]
   },
