@@ -1,4 +1,4 @@
-26779651098024895
+26781415754629660
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -34,6 +34,13 @@ Through hole pin header THT 1x04 2.54mm single row
 0
 4
 4
+BMS_Custom_Footprints
+Relay_Coil
+
+
+0
+0
+0
 BMS_Custom_Footprints
 Relay_RT334048
 Relay SPST Schrack-RT2 RM5mm 16A 250V AC Form C http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=RT2_reflow&DocType=DS&DocLang=EN
