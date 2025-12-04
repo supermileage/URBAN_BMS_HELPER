@@ -1,4 +1,4 @@
-26781415754629660
+26784945403578071
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -49,7 +49,21 @@ Relay SPST Schrack-RT2 RM5mm 16A 250V AC Relay
 8
 5
 BMS_Custom_Footprints
+Toggle_Switch_200MDP3T2B4M6QE
+
+
+0
+8
+6
+BMS_Custom_Footprints
 Toggle_Switch_M2022S2A2W30
+
+
+0
+8
+6
+BMS_Custom_Footprints
+Toggle_Switch_MN23SS2G30
 
 
 0
